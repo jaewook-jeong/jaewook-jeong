@@ -31,7 +31,7 @@
 
 ---
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:holim1226@gmail.com)](mailto:holim1226@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@holim0)](https://velog.io/@holim0)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnrlwo11@gmail.com)](mailto:dnrlwo11@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jaewook-jeong.github.io/)](https://jaewook-jeong.github.io/)
 
 
 
