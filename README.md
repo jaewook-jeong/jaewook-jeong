@@ -13,7 +13,7 @@
 - JavaScript
 - React
 - Next JS
-- GraphQL, Apollo
+- GraphQL
 
 </br>
 
