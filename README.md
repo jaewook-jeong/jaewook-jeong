@@ -1,7 +1,7 @@
 ### Hi there ⚽️
 # Chris's Programming Ground 🧑🏻‍💻
-
-
+저에대해 궁금한 점이 있으시다면 [AI비서](https://gpt-secretary.vercel.app/)에게 물어보세요!
+[(code)](https://github.com/jaewook-jeong/gpt-secretary)
 </br>
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=jaewook-jeong)](https://github.com/anuraghazra/github-readme-stats)
