@@ -31,7 +31,8 @@
 
 ---
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnrlwo11@gmail.com)](mailto:dnrlwo11@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jaewook-jeong.github.io/)](https://jaewook-jeong.github.io/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnrlwo11@gmail.com)](mailto:dnrlwo11@gmail.com) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white
+)](https://velog.io/@_woogie) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jaewook-jeong.github.io/)](https://jaewook-jeong.github.io/)
 
 
 
